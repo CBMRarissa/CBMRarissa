@@ -1,12 +1,8 @@
 ## BOM DIA RAPAZIADA 🐊
 
-### Name: Rarissa Silva Correa
-
-<div style="display: inline_block"><br/>
-   <!--[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikael-lenartevitz-b8bb0b252/)-->
-    [![CBMRarissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=CBMRarissa&show_icons=true)](https://github.com/CBMRarissa/github-readme-stats&show_icons=true)
-    <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CBMRarissa&hide_progress=true)-->
-</div><br/>
+<!--[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikael-lenartevitz-b8bb0b252/)-->
+[![CBMRarissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=CBMRarissa&show_icons=true)](https://github.com/CBMRarissa/github-readme-stats&show_icons=true)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CBMRarissa&hide_progress=true)-->
 
 ## Tecnologias: 
 
