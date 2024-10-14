@@ -2,15 +2,11 @@
 
 
 
-### Name: Rarissa Silva Correa  🐉
-
-
-
+### Name: Rarissa Silva Correa
 <!--[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikael-lenartevitz-b8bb0b252/)-->
 
-![Rarissa GitHub stats](https://github-readme-stats.vercel.app/api?username=CBMRarissa&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CBMRarissa&hide_progress=true)
+[![CBMRarissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=CBMRarissa&show_icons=true)](https://github.com/CBMRarissa/github-readme-stats&show_icons=true)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CBMRarissa&hide_progress=true)-->
 
 ## Tecnologias: 
 
