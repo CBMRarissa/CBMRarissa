@@ -1,24 +1,25 @@
 ## BOM DIA RAPAZIADA 🐊
 
-## I'm Rarissa!
 
-:computer: I'm a Front-End Developer!
 
-:house_with_garden: I’m from Brazil.
+### Name: Rarissa Silva Correa  🐉
 
-:books: I’m currently learning everything.
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
 
-## About me
+<!--[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikael-lenartevitz-b8bb0b252/)-->
 
-<!--[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/CBMRarissa)](https://github.com/CBMRarissa)
+![Rarissa GitHub stats](https://github-readme-stats.vercel.app/api?username=CBMRarissa&show_icons=true&theme=tokyonight)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](LINK_LINKEDIN) -->
+## Tecnologias: 
 
-- Thanks for visiting.
+<div style="display: inling_block"><br/>
+    <img aling="center" alt="htmls" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img aling="center" alt="htmls" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+    <img aling="center" alt="htmls" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img aling="center" alt="htmls" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+ </div><br/>
+  
 
-- Enjoy it!! o/
 
 <!--
 **CBMRarissa/CBMRarissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
